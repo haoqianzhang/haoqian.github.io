@@ -23,5 +23,5 @@ author_profile: true
 ## Deep Learning
 
 <b>[Posture Estimation Of Construction Equipment For Construction Site Safety Using Computer Vision Techniques](#)</b> <br>
-Han Luo, <b>Haoqian Zhang</b>, Mingzhu Wang, Jack C.P. Cheng. <i>18th International Conference on Construction Applications of Virtual Reality.</i>
+Han Luo, <b>Haoqian Zhang</b>, Mingzhu Wang, Jack C.P. Cheng. <i>18th International Conference on Construction Applications of Virtual Reality.</i> <b>Best Paper Award</b>.
 
