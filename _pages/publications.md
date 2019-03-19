@@ -18,7 +18,7 @@ author_profile: true
 ## Blockchain
 
 <b>[Infnote: A Decentralized Information Sharing Platform Based on Blockchain](#)</b> <br>
-<b>Haoqian Zhang</b>, Yaocheng Zhao, Abhishek Paryani, Ke Yi. <i>In submission to The Web Conference 2019.</i>
+<b>Haoqian Zhang</b>, Yaocheng Zhao, Abhishek Paryani, Ke Yi. <i>In submission to VLDB 2019.</i>
 
 ## Deep Learning
 
