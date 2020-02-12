@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zhang Haoqian"
 title_separator          : "-"
 name                     : &name "Zhang Haoqian"
-description              : &description "MPhil student at The Hong Kong University of Science and Technology"
+description              : &description "PhD student at The Swiss Federal Institute of Technology Lausanne"
 url                      : http://haoqian.info # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "haoqianzhang/haoqian.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Zhang Haoqian"
   avatar           : "profile.png"
-  bio              : "A MPhil student at HKUST, interested in Blockchain Technology"
-  location         : "Hong Kong"
+  bio              : "A PhD student at EPFL, interested in Blockchain Technology"
+  location         : "Switzerland"
   employer         :
   googlescholar    : 
-  email            : "haoqian.zhang@connect.ust.hk"
+  email            : "haoqian.zhang@epfl.ch"
   uri              :
   bitbucket        :
   codepen          :
@@ -97,7 +97,7 @@ author:
   github           : "haoqianzhang"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "thisishaoqian"
   lastfm           :
   linkedin         :
   orcid            : 
@@ -106,7 +106,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "thisishaoqian" 
   vine             :
   weibo            :
   xing             :
